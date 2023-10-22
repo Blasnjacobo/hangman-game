@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hangman-game/static/css/main.b93bf6ea.css",
+    "main.css": "/hangman-game/static/css/main.b6375d79.css",
     "main.js": "/hangman-game/static/js/main.47c9e7eb.js",
     "static/media/good-luck.jpg": "/hangman-game/static/media/good-luck.6f2cbfae01c3400abbff.jpg",
     "index.html": "/hangman-game/index.html",
-    "main.b93bf6ea.css.map": "/hangman-game/static/css/main.b93bf6ea.css.map",
+    "main.b6375d79.css.map": "/hangman-game/static/css/main.b6375d79.css.map",
     "main.47c9e7eb.js.map": "/hangman-game/static/js/main.47c9e7eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b93bf6ea.css",
+    "static/css/main.b6375d79.css",
     "static/js/main.47c9e7eb.js"
   ]
 }
